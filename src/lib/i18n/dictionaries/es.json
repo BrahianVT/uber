@@ -1,0 +1,79 @@
+{
+  "header": {
+    "title": "Drive Profit",
+    "downloadButton": "Descargar Informe",
+    "language": "Idioma",
+    "downloadToast": {
+      "title": "Informe Descargado",
+      "description": "Su informe ha sido descargado como un archivo de texto.",
+      "noDataTitle": "No Hay Datos para Descargar",
+      "noDataDescription": "Por favor, calcule un informe primero antes de descargar."
+    }
+  },
+  "driveProfitDashboard": {
+    "calculator": {
+      "title": "Calculadora de Rentabilidad",
+      "description": "Ingrese los detalles de su viaje para un período de 1, 30 o 356 días o años.",
+      "calculateButton": "Calcular Ganancia",
+      "calculatingButton": "Calculando..."
+    },
+    "mainForm": {
+      "distance": "Distancia recorrida (km)",
+      "totalEarnings": "Ingresos totales ($)",
+      "drivingHours": "Horas de conducción"
+    },
+    "advancedSettings": {
+      "title": "Configuración Avanzada"
+    },
+    "settingsForm": {
+      "fuelCostPerLiter": "Costo por litro de combustible ($)",
+      "avgConsumption": "Consumo promedio (km/l)",
+      "maintenanceCost": "Costo de mantenimiento por 10,000 km ($)",
+      "tireCost": "Costo de 4 neumáticos (por 50,000 km) ($)",
+      "annualInsurance": "Seguro para el período ($)",
+      "totalFees": "Tarifas Totales de Plataforma (%)",
+      "taxRate": "Tasa de Impuestos (%) (el impuesto se aplica sobre la ganancia después de todos los gastos comerciales)"
+    },
+    "report": {
+      "awaits": {
+        "title": "Su Informe le Espera",
+        "description": "Complete el formulario para ver su análisis de rentabilidad y gráficos."
+      }
+    },
+    "summary": {
+      "totalEarnings": "Ingresos Totales",
+      "totalCosts": "Costos Totales",
+      "netProfit": "Ganancia Neta",
+      "profitPerHour": "Ganancia por Hora",
+      "profitPerKm": "Ganancia por KM",
+      "earningsPerHour": "Ingresos por Hora",
+      "earningsPerKm": "Ingresos por KM",
+      "perHourSuffix": "/hr",
+      "perKmSuffix": "/km"
+    },
+    "expenseBreakdown": {
+      "title": "Desglose de Gastos",
+      "description": "Un desglose de sus costos totales por categoría.",
+      "category": "Categoría",
+      "amount": "Monto",
+      "percentage": "% del Total",
+      "total": "Costos Totales"
+    },
+    "expenseCategories": {
+      "fuel": "Combustible",
+      "maintenance": "Mantenimiento",
+      "tires": "Neumáticos",
+      "insurance": "Seguro",
+      "fees": "Tarifas de Plataforma",
+      "tax": "Impuestos"
+    },
+    "breakEven": {
+      "title": "Análisis de Punto de Equilibrio",
+      "description": "El punto en el que sus ingresos igualan sus gastos.",
+      "line1": "Para cubrir todos sus gastos de este período, necesitaba conducir:",
+      "line2": "Después de este punto, comenzó a obtener ganancias.",
+      "totalCosts": "Costos Totales",
+      "earningsPerKm": "Ingresos/Km"
+    }
+  }
+}

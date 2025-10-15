@@ -1,0 +1,79 @@
+{
+  "header": {
+    "title": "Drive Profit",
+    "downloadButton": "Download Report",
+    "language": "Language",
+    "downloadToast": {
+      "title": "Report Downloaded",
+      "description": "Your report has been downloaded as a text file.",
+      "noDataTitle": "No Data to Download",
+      "noDataDescription": "Please calculate a report first before downloading."
+    }
+  },
+  "driveProfitDashboard": {
+    "calculator": {
+      "title": "Profitability Calculator",
+      "description": "Enter your trip details for a 1/30/356-period in days or years.",
+      "calculateButton": "Calculate Profit",
+      "calculatingButton": "Calculating..."
+    },
+    "mainForm": {
+      "distance": "Distance traveled (km)",
+      "totalEarnings": "Total earnings ($)",
+      "drivingHours": "Driving hours"
+    },
+    "advancedSettings": {
+      "title": "Advanced Settings"
+    },
+    "settingsForm": {
+      "fuelCostPerLiter": "Cost per liter of fuel ($)",
+      "avgConsumption": "Average consumption (km/l)",
+      "maintenanceCost": "Maintenance cost per 10,000 km ($)",
+      "tireCost": "Cost of 4 tires (per 50,000 km) ($)",
+      "annualInsurance": "Insurance for the period ($)",
+      "totalFees": "Total Platform Fees (%)",
+      "taxRate": "Tax Rate (%) (tax is applied to the profit after all business expenses)"
+    },
+    "report": {
+      "awaits": {
+        "title": "Your Report Awaits",
+        "description": "Fill out the form to see your profitability analysis and charts."
+      }
+    },
+    "summary": {
+      "totalEarnings": "Total Earnings",
+      "totalCosts": "Total Costs",
+      "netProfit": "Net Profit",
+      "profitPerHour": "Profit Per Hour",
+      "profitPerKm": "Profit Per KM",
+      "earningsPerHour": "Earnings Per Hour",
+      "earningsPerKm": "Earnings Per KM",
+      "perHourSuffix": "/hr",
+      "perKmSuffix": "/km"
+    },
+    "expenseBreakdown": {
+      "title": "Expense Breakdown",
+      "description": "A breakdown of your total costs by category.",
+      "category": "Category",
+      "amount": "Amount",
+      "percentage": "% of Total",
+      "total": "Total Costs"
+    },
+    "expenseCategories": {
+      "fuel": "Fuel",
+      "maintenance": "Maintenance",
+      "tires": "Tires",
+      "insurance": "Insurance",
+      "fees": "Platform Fees",
+      "tax": "Tax"
+    },
+    "breakEven": {
+      "title": "Break-Even Analysis",
+      "description": "The point at which your earnings equal your expenses.",
+      "line1": "To cover all your expenses for this period, you needed to drive:",
+      "line2": "After this point, you started making a profit.",
+      "totalCosts": "Total Costs",
+      "earningsPerKm": "Earnings/Km"
+    }
+  }
+}

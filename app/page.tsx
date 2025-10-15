@@ -2,6 +2,8 @@ import { Header } from '@/components/header';
 import { DriveProfitDashboard } from '@/components/drive-profit-dashboard';
 import { ReportProvider } from '@/lib/report-context';
 
+
+export const runtime = "experimental-edge";
 export default function Home() {
   return (
     <ReportProvider>
